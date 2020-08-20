@@ -1,0 +1,19 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ekrenzin/DiscordBot.git"
+  },
+  "author": "ekr",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "firebase-admin": "^9.1.0"
+  }
+}
